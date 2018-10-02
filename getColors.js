@@ -24,4 +24,4 @@ async function getAllColors() {
   console.log(await getAllColors());
 })();
 
-export default getAllColors;
+export default getAllColors
